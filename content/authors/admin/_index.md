@@ -52,7 +52,7 @@ education:
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#skills:
+skills:
   - name: Areas of Specialization
     items:
       - name: History of Alchemy & Chymistry
