@@ -78,10 +78,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:sarah.lang@uni-graz.at 
+    link: "mailto:sarah.lang@uni-graz.at" 
   - icon: twitter
     icon_pack: fab
-    link: [https://twitter.com/GeorgeCushen](https://twitter.com/SarahALang_)
+    link: https://twitter.com/SarahALang_
     label: Follow me on Twitter
     display:
       header: true
