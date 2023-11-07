@@ -53,6 +53,19 @@ education:
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #skills:
+  - name: Areas of Specialization
+    items:
+      - name: History of Alchemy & Chymistry
+        icon: book
+        icon_pack: fas
+        description: "Specializing on the Neo-Latin corpus of Michael Maier (1568-1622)"
+      - name: X-technologies
+        description: "XML, XSLT, XML-Standards"
+        icon_pack: fas
+        icon: laptop-code
+      - name: Computational Humanities
+        icon_pack: fas
+        icon: chart-line 
 #  - name: Technical
 #    items:
 #      - name: Python
