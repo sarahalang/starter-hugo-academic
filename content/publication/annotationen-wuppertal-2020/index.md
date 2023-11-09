@@ -6,7 +6,7 @@ authors:
 date: '2020-01-01'
 publishDate: '2023-11-09T13:30:46.398570Z'
 publication_types:
-- paper-conference
+- chapter
 publication: '*Annotations in Scholarly Editions and Research. Functions, Differentiation,
   Systematization*'
 links:
