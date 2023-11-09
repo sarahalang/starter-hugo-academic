@@ -35,6 +35,20 @@ sections:
         text_color_light: true
   - block: about.biography
     id: about
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
