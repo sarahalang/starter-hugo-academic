@@ -6,7 +6,7 @@ authors:
 date: '2021-10-01'
 publishDate: '2023-11-09T13:30:46.601975Z'
 publication_types:
-- article-journal
+- article-magazine
 publication: '*Der Standard, Blog Digitale Geisteswissenschaften*'
 links:
 - name: URL
