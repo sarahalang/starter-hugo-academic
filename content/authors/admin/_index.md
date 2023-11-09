@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Sarah A. Lang
+title: Sarah A. Lang
 
 # Full name (for SEO)
 first_name: Sarah A.
