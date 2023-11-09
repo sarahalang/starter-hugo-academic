@@ -6,7 +6,7 @@ authors:
 date: '2020-01-01'
 publishDate: '2023-11-09T13:30:46.408657Z'
 publication_types:
-- paper-conference
+- chapter
 publication: '*Funktion und Aufgabe digitaler Medien in Geschichtswissenschaft und
   Geschichtsunterricht*'
 ---
