@@ -6,7 +6,7 @@ authors:
 date: '2023-01-01'
 publishDate: '2023-11-09T13:30:46.222869Z'
 publication_types:
-- paper-conference
+- entry-dictionary
 publication: '*Digitale Edition in Österreich*'
 links:
 - name: URL
