@@ -6,6 +6,6 @@ authors:
 date: '2021-01-01'
 publishDate: '2023-11-09T13:30:46.460370Z'
 publication_types:
-- paper-conference
+- chapter
 publication: '*Alchemie -- Genealogie und Terminologie, Bilder, Techniken und Artefakte*'
 ---
