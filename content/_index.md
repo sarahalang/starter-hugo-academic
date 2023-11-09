@@ -35,6 +35,10 @@ sections:
         text_color_light: true
   - block: about.biography
     id: about
+    content:
+      title: Biography
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
   - block: collection
     content:
       title: Recent Publications
@@ -49,9 +53,4 @@ sections:
     design:
       columns: '2'
       view: citation
-    content:
-      title: Biography
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-
 ---
