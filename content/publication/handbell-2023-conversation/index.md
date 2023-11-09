@@ -8,7 +8,7 @@ authors:
 date: '2023-06-01'
 publishDate: '2023-11-09T13:30:46.367102Z'
 publication_types:
-- manuscript
+- article-newspaper
 publication: '*The Conversation*'
 links:
 - name: URL
