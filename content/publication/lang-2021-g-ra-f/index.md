@@ -6,7 +6,7 @@ authors:
 date: '2021-01-01'
 publishDate: '2023-11-09T13:30:46.500338Z'
 publication_types:
-- manuscript
+- entry-dictionary
 publication: '*KONDE Weißbuch*'
 tags:
 - digiclass
@@ -15,5 +15,5 @@ tags:
 - GRaF
 links:
 - name: URL
-  url: https://www.digitale-edition.at/o:konde.p21, hdl.handle.net/11471/562.50
+  url: https://www.digitale-edition.at/o:konde.p21
 ---
