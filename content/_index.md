@@ -55,7 +55,7 @@ sections:
       view: citation
   - block: tag_cloud
     content:
-      title: Topics
+      title: Publications by Topics
     design:
       columns: '2'
 ---
