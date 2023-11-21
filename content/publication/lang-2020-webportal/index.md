@@ -1,18 +1,17 @@
 ---
-title: Webportal
+title: 'Webportal'
 authors:
-- Sarah Lang
+  - admin
 date: '2020-01-01'
-publishDate: '2023-11-09T13:30:46.510503Z'
+doi: ''
 publication_types:
-- webpage
-publication: '*Grazer Repositorium antiker Fabeln (GRaF)*'
+ - 'webpage'
+publication: 'Grazer Repositorium antiker Fabeln (GRaF)'
+url_pdf: 'https://gams.uni-graz.at/graf'
+projects:
+  - 'GRaF project'
 tags:
-- digiclass
-- dh
-- classics
-- GRaF
-links:
-- name: URL
-  url: gams.uni-graz.at/graf
+- 'Digital Classics'
+- 'Digital Humanities'
+- 'Classics'
 ---
