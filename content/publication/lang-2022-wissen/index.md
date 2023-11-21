@@ -1,12 +1,18 @@
 ---
-title: Vom `Wissen in Buchform' zum formalen Wissensmodell. Digitale Aufbereitung
-  wissenschaftshistorischer Drucke am Beispiel der Alchemica Michael Maiers
+title: 'Vom `Wissen in Buchform` zum formalen Wissensmodell. Digitale Aufbereitung wissenschaftshistorischer Drucke am Beispiel der Alchemica Michael Maiers'
 authors:
-- Sarah Lang
+  - admin
 date: '2022-01-01'
-publishDate: '2023-11-09T13:30:46.377657Z'
+doi: ''
 publication_types:
-- chapter
-publication: "*Wissen und Buchgestalt (Tagungsband zu `Wissen in Buchgestalt' 30.09.2019
-  -- 02.10.2019)*"
+ - 'chapter'
+publication: 'Philipp Hegel and Michael Krewet (eds.): Wissen und Buchgestalt. Harrassowitz'
+url_pdf: 'https://www.harrassowitz-verlag.de/titel_7010.ahtml'
+projects:
+  - 'PhD project'
+tags:
+- 'Alchemy'
+- 'Digital Humanities'
+- 'Michael Maier'
+- 'PhD project'
 ---
