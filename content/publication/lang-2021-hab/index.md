@@ -1,11 +1,17 @@
 ---
-title: Digitale Erschließungsmethoden für alchemische Texte am Beispiel der Symbola
-  Aureae Mensae Michael Maiers
+title: 'Digitale Erschließungsmethoden für alchemische Texte am Beispiel der Symbola Aureae Mensae Michael Maiers'
 authors:
-- Sarah Lang
+  - admin
 date: '2021-01-01'
-publishDate: '2023-11-09T13:30:46.460370Z'
+doi: ''
 publication_types:
-- chapter
-publication: '*Alchemie -- Genealogie und Terminologie, Bilder, Techniken und Artefakte*'
+ - 'chapter'
+publication: 'In Petra Feuerstein-Herz and Ute Frietsch (eds.): Alchemie - Genealogie und Terminologie, Bilder, Techniken und Artefakte. Harrassowitz (Wolfenbütteler Forschungen 166).'
+projects:
+  - 'PhD project'
+tags:
+- 'Alchemy'
+- 'Digital Humanities'
+- 'Michael Maier'
+- 'PhD project'
 ---
