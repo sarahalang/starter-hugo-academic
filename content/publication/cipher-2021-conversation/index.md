@@ -1,5 +1,5 @@
 ---
-title: 'Deciphering the Philosophers' Stone: how we cracked a 400-year-old alchemical cipher'
+title: "Deciphering the Philosophers' Stone: how we cracked a 400-year-old alchemical cipher"
 authors:
   - Richard Bean
   - Megan Piorko
