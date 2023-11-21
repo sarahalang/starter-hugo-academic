@@ -1,12 +1,16 @@
 ---
-title: Die Fabel lehrt -- Fabula docet. Das Grazer Repositorium antiker Fabeln als
-  fachdidaktische digitale Ressource
+title: 'Die Fabel lehrt -- Fabula docet. Das Grazer Repositorium antiker Fabeln als fachdidaktische digitale Ressource'
 authors:
-- Sarah Lang
+  - admin
 date: '2020-01-01'
-publishDate: '2023-11-09T13:30:46.408657Z'
+doi: ''
 publication_types:
-- chapter
-publication: '*Funktion und Aufgabe digitaler Medien in Geschichtswissenschaft und
-  Geschichtsunterricht*'
+ - 'paper-conference'
+publication: 'In  Krešimir Matijević (ed.): Funktion und Aufgabe digitaler Medien in Geschichtswissenschaft und Geschichtsunterricht. Computus Druck'
+projects:
+  - 'GRaF project'
+tags:
+- 'Digital Classics'
+- 'Digital Humanities'
+- 'Classics'
 ---
