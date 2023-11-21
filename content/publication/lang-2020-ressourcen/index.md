@@ -1,18 +1,17 @@
 ---
-title: Liste online verfügbarer Ressourcen für den altsprachlichen Unterricht
+title: 'Liste online verfügbarer Ressourcen für den altsprachlichen Unterricht'
 authors:
-- Sarah Lang
+  - admin
 date: '2020-01-01'
-publishDate: '2023-11-09T13:30:46.520520Z'
+doi: ''
 publication_types:
-- webpage
-publication: '*Grazer Repositorium antiker Fabeln (GRaF)*'
+ - 'webpage'
+publication: 'Grazer Repositorium antiker Fabeln (GRaF)'
+url_pdf: 'http://gams.uni-graz.at/context:graf?mode=ressourcen'
+projects:
+  - 'GRaF project'
 tags:
-- digiclass
-- dh
-- classics
-- GRaF
-links:
-- name: URL
-  url: http://gams.uni-graz.at/context:graf?mode=ressourcen
+- 'Digital Classics'
+- 'Digital Humanities'
+- 'Classics'
 ---
