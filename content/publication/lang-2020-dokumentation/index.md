@@ -1,13 +1,17 @@
 ---
-title: Dokumentation
+title: 'Dokumentation'
 authors:
-- Sarah Lang
+  - admin
 date: '2020-01-01'
-publishDate: '2023-11-09T13:30:46.540086Z'
+doi: ''
 publication_types:
-- webpage
-publication: '*Grazer Repositorium antiker Fabeln (GRaF)*'
-links:
-- name: URL
-  url: http://gams.uni-graz.at/context:graf?mode=doku
+ - 'webpage'
+publication: 'Grazer Repositorium antiker Fabeln (GRaF)'
+url_pdf: 'http://gams.uni-graz.at/context:graf?mode=doku'
+projects:
+  - 'GRaF project'
+tags:
+- 'Digital Classics'
+- 'Digital Humanities'
+- 'Classics'
 ---
