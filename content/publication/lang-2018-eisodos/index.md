@@ -1,10 +1,14 @@
 ---
-title: Tragisches Ritual? Zum Aigisthosmord der euripideischen Elektra im Opferkontext
+title: 'Tragisches Ritual? Zum Aigisthosmord der euripideischen Elektra im Opferkontext'
 authors:
-- Sarah Lang
+  - admin
 date: '2018-01-01'
-publishDate: '2023-11-09T13:30:46.338759Z'
+doi: ''
 publication_types:
-- article-journal
-publication: '*Eisodos: Zeitschrift für Antike Literatur und Theorie*'
+ - 'article-journal'
+publication: 'Eisodos: Zeitschrift für Antike Literatur und Theorie (2018/1, Frühjahr)'
+url_pdf: 'https://eisodos.org/eisodos-2018-1-fruehling/tragisches-ritualum-aigisthosmord-der-euripideischen-elektra-im-opferkontext/'
+projects: []
+tags:
+- 'Classics'
 ---
