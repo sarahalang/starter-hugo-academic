@@ -1,5 +1,5 @@
 ---
-title: 'Assessing Michael Maier's Contributions to Francis Anthony's Apologia (1616) Using Stylometry'
+title: "Assessing Michael Maier's Contributions to Francis Anthony's Apologia (1616) Using Stylometry"
 authors:
   - admin
 date: '2021-01-01'
