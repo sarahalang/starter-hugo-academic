@@ -1,15 +1,16 @@
 ---
-title: Digitale Annotation alchemischer Decknamen. Die Allegoriae werden uns nit mehr
-  verborgen seyn
+title: 'Digitale Annotation alchemischer Decknamen. Die Allegoriae werden uns nit mehr verborgen seyn'
 authors:
-- Sarah Lang
+  - admin
 date: '2020-01-01'
-publishDate: '2023-11-09T13:30:46.398570Z'
+doi: 'https://doi.org/10.1515/9783110689112-010'
 publication_types:
-- chapter
-publication: '*Annotations in Scholarly Editions and Research. Functions, Differentiation,
-  Systematization*'
-links:
-- name: URL
-  url: https://doi.org/10.1515/9783110689112-010
+ - 'paper-conference'
+publication: 'In *Annotations in Scholarly Editions and Research. Functions, Differentiation, Systematization.* De Gruyter'
+projects:
+  - 'PhD project'
+tags:
+- 'Alchemy'
+- 'Digital Humanities'
+- 'PhD project'
 ---
