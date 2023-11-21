@@ -1,10 +1,14 @@
 ---
 title: 'Book review: LaTeX Beginner’s Guide, second edition, by Stefan Kottwitz'
 authors:
-- Sarah Lang
+  - admin
 date: '2022-01-01'
-publishDate: '2023-11-09T13:30:46.572183Z'
+doi: ''
 publication_types:
-- article-journal
-publication: '*The Communications of the TeX Users Group TUGboat*'
+ - 'article-journal'
+publication: 'The Communications of the TeX Users Group (TUGboat) 43:1'
+projects: []
+tags:
+- 'LaTeX'
+- 'Book Review'
 ---
