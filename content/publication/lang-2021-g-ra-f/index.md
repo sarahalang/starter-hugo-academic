@@ -1,19 +1,18 @@
 ---
-title: Grazer Repositorium antiker Fabeln (GRaF, 2017-2019)
+title: 'Grazer Repositorium antiker Fabeln (GRaF, 2017-2019)'
 authors:
-- Sarah Lang
-- Ursula Gärtner
+  - Sarah Lang
+  - Ursula Gärtner
 date: '2021-01-01'
-publishDate: '2023-11-09T13:30:46.500338Z'
+doi: 'hdl.handle.net/11471/562.50'
 publication_types:
-- entry-dictionary
-publication: '*KONDE Weißbuch*'
+ - 'webpage'
+publication: 'KONDE Weißbuch'
+url_pdf: 'https://www.digitale-edition.at/o:konde.p21'
+projects:
+  - 'GRaF project'
 tags:
-- digiclass
-- dh
-- classics
-- GRaF
-links:
-- name: URL
-  url: https://www.digitale-edition.at/o:konde.p21
+- 'Digital Classics'
+- 'Digital Humanities'
+- 'Classics'
 ---
