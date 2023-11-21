@@ -1,16 +1,15 @@
 ---
-title: Text Mining
+title: 'Text Mining'
 authors:
-- Sarah Lang
+  - admin
 date: '2021-01-01'
-publishDate: '2023-11-09T13:30:46.479231Z'
+doi: 'hdl.handle.net/11471/562.50'
 publication_types:
-- entry-dictionary
-publication: '*KONDE Weißbuch*'
+ - 'webpage'
+publication: 'In KONDE Weißbuch'
+url_pdf: 'https://www.digitale-edition.at/o:konde.194'
+projects: []
 tags:
-- dh
-- computational-humanities
-links:
-- name: URL
-  url: https://www.digitale-edition.at/o:konde.194, hdl.handle.net/11471/562.50
+- 'Digital Humanities'
+- 'Computational Humanities'
 ---
